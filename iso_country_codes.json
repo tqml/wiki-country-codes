@@ -1,0 +1,1994 @@
+[
+  {
+    "country": "Afghanistan",
+    "state_name": "the Islamic Republic of Afghanistan",
+    "iso2": "AF",
+    "iso3": "AFG",
+    "numeric": "004",
+    "iso3166_2_link": "ISO 3166-2:AF"
+  },
+  {
+    "country": "\u00c5land Islands",
+    "state_name": "\u00c5land",
+    "iso2": "AX",
+    "iso3": "ALA",
+    "numeric": "248",
+    "iso3166_2_link": "ISO 3166-2:AX"
+  },
+  {
+    "country": "Albania",
+    "state_name": "the Republic of Albania",
+    "iso2": "AL",
+    "iso3": "ALB",
+    "numeric": "008",
+    "iso3166_2_link": "ISO 3166-2:AL"
+  },
+  {
+    "country": "Algeria",
+    "state_name": "the People's Democratic Republic of Algeria",
+    "iso2": "DZ",
+    "iso3": "DZA",
+    "numeric": "012",
+    "iso3166_2_link": "ISO 3166-2:DZ"
+  },
+  {
+    "country": "American Samoa",
+    "state_name": "American Samoa",
+    "iso2": "AS",
+    "iso3": "ASM",
+    "numeric": "016",
+    "iso3166_2_link": "ISO 3166-2:AS"
+  },
+  {
+    "country": "Andorra",
+    "state_name": "the Principality of Andorra",
+    "iso2": "AD",
+    "iso3": "AND",
+    "numeric": "020",
+    "iso3166_2_link": "ISO 3166-2:AD"
+  },
+  {
+    "country": "Angola",
+    "state_name": "the Republic of Angola",
+    "iso2": "AO",
+    "iso3": "AGO",
+    "numeric": "024",
+    "iso3166_2_link": "ISO 3166-2:AO"
+  },
+  {
+    "country": "Anguilla",
+    "state_name": "Anguilla",
+    "iso2": "AI",
+    "iso3": "AIA",
+    "numeric": "660",
+    "iso3166_2_link": "ISO 3166-2:AI"
+  },
+  {
+    "country": "Antarctica",
+    "state_name": "Antarctica",
+    "iso2": "AQ",
+    "iso3": "ATA",
+    "numeric": "010",
+    "iso3166_2_link": "ISO 3166-2:AQ"
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "state_name": "Antigua and Barbuda",
+    "iso2": "AG",
+    "iso3": "ATG",
+    "numeric": "028",
+    "iso3166_2_link": "ISO 3166-2:AG"
+  },
+  {
+    "country": "Argentina",
+    "state_name": "the Argentine Republic",
+    "iso2": "AR",
+    "iso3": "ARG",
+    "numeric": "032",
+    "iso3166_2_link": "ISO 3166-2:AR"
+  },
+  {
+    "country": "Armenia",
+    "state_name": "the Republic of Armenia",
+    "iso2": "AM",
+    "iso3": "ARM",
+    "numeric": "051",
+    "iso3166_2_link": "ISO 3166-2:AM"
+  },
+  {
+    "country": "Aruba",
+    "state_name": "the Country of Aruba",
+    "iso2": "AW",
+    "iso3": "ABW",
+    "numeric": "533",
+    "iso3166_2_link": "ISO 3166-2:AW"
+  },
+  {
+    "country": "Australia",
+    "state_name": "the Commonwealth of Australia",
+    "iso2": "AU",
+    "iso3": "AUS",
+    "numeric": "036",
+    "iso3166_2_link": "ISO 3166-2:AU"
+  },
+  {
+    "country": "Austria",
+    "state_name": "the Republic of Austria",
+    "iso2": "AT",
+    "iso3": "AUT",
+    "numeric": "040",
+    "iso3166_2_link": "ISO 3166-2:AT"
+  },
+  {
+    "country": "Azerbaijan",
+    "state_name": "the Republic of Azerbaijan",
+    "iso2": "AZ",
+    "iso3": "AZE",
+    "numeric": "031",
+    "iso3166_2_link": "ISO 3166-2:AZ"
+  },
+  {
+    "country": "Bahamas (the)",
+    "state_name": "the Commonwealth of The Bahamas",
+    "iso2": "BS",
+    "iso3": "BHS",
+    "numeric": "044",
+    "iso3166_2_link": "ISO 3166-2:BS"
+  },
+  {
+    "country": "Bahrain",
+    "state_name": "the Kingdom of Bahrain",
+    "iso2": "BH",
+    "iso3": "BHR",
+    "numeric": "048",
+    "iso3166_2_link": "ISO 3166-2:BH"
+  },
+  {
+    "country": "Bangladesh",
+    "state_name": "the People's Republic of Bangladesh",
+    "iso2": "BD",
+    "iso3": "BGD",
+    "numeric": "050",
+    "iso3166_2_link": "ISO 3166-2:BD"
+  },
+  {
+    "country": "Barbados",
+    "state_name": "Barbados",
+    "iso2": "BB",
+    "iso3": "BRB",
+    "numeric": "052",
+    "iso3166_2_link": "ISO 3166-2:BB"
+  },
+  {
+    "country": "Belarus",
+    "state_name": "the Republic of Belarus",
+    "iso2": "BY",
+    "iso3": "BLR",
+    "numeric": "112",
+    "iso3166_2_link": "ISO 3166-2:BY"
+  },
+  {
+    "country": "Belgium",
+    "state_name": "the Kingdom of Belgium",
+    "iso2": "BE",
+    "iso3": "BEL",
+    "numeric": "056",
+    "iso3166_2_link": "ISO 3166-2:BE"
+  },
+  {
+    "country": "Belize",
+    "state_name": "Belize",
+    "iso2": "BZ",
+    "iso3": "BLZ",
+    "numeric": "084",
+    "iso3166_2_link": "ISO 3166-2:BZ"
+  },
+  {
+    "country": "Benin",
+    "state_name": "the Republic of Benin",
+    "iso2": "BJ",
+    "iso3": "BEN",
+    "numeric": "204",
+    "iso3166_2_link": "ISO 3166-2:BJ"
+  },
+  {
+    "country": "Bermuda",
+    "state_name": "Bermuda",
+    "iso2": "BM",
+    "iso3": "BMU",
+    "numeric": "060",
+    "iso3166_2_link": "ISO 3166-2:BM"
+  },
+  {
+    "country": "Bhutan",
+    "state_name": "the Kingdom of Bhutan",
+    "iso2": "BT",
+    "iso3": "BTN",
+    "numeric": "064",
+    "iso3166_2_link": "ISO 3166-2:BT"
+  },
+  {
+    "country": "Bolivia (Plurinational State of)",
+    "state_name": "the Plurinational State of Bolivia",
+    "iso2": "BO",
+    "iso3": "BOL",
+    "numeric": "068",
+    "iso3166_2_link": "ISO 3166-2:BO"
+  },
+  {
+    "country": "BonaireSint EustatiusSaba",
+    "state_name": "Bonaire, Sint Eustatius and Saba",
+    "iso2": "BQ",
+    "iso3": "BES",
+    "numeric": "535",
+    "iso3166_2_link": "ISO 3166-2:BQ"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "state_name": "Bosnia and Herzegovina",
+    "iso2": "BA",
+    "iso3": "BIH",
+    "numeric": "070",
+    "iso3166_2_link": "ISO 3166-2:BA"
+  },
+  {
+    "country": "Botswana",
+    "state_name": "the Republic of Botswana",
+    "iso2": "BW",
+    "iso3": "BWA",
+    "numeric": "072",
+    "iso3166_2_link": "ISO 3166-2:BW"
+  },
+  {
+    "country": "Bouvet Island",
+    "state_name": "Bouvet Island",
+    "iso2": "BV",
+    "iso3": "BVT",
+    "numeric": "074",
+    "iso3166_2_link": "ISO 3166-2:BV"
+  },
+  {
+    "country": "Brazil",
+    "state_name": "the Federative Republic of Brazil",
+    "iso2": "BR",
+    "iso3": "BRA",
+    "numeric": "076",
+    "iso3166_2_link": "ISO 3166-2:BR"
+  },
+  {
+    "country": "British Indian Ocean Territory (the)",
+    "state_name": "the British Indian Ocean Territory",
+    "iso2": "IO",
+    "iso3": "IOT",
+    "numeric": "086",
+    "iso3166_2_link": "ISO 3166-2:IO"
+  },
+  {
+    "country": "Brunei Darussalam",
+    "state_name": "Brunei Darussalam",
+    "iso2": "BN",
+    "iso3": "BRN",
+    "numeric": "096",
+    "iso3166_2_link": "ISO 3166-2:BN"
+  },
+  {
+    "country": "Bulgaria",
+    "state_name": "the Republic of Bulgaria",
+    "iso2": "BG",
+    "iso3": "BGR",
+    "numeric": "100",
+    "iso3166_2_link": "ISO 3166-2:BG"
+  },
+  {
+    "country": "Burkina Faso",
+    "state_name": "Burkina Faso",
+    "iso2": "BF",
+    "iso3": "BFA",
+    "numeric": "854",
+    "iso3166_2_link": "ISO 3166-2:BF"
+  },
+  {
+    "country": "Burundi",
+    "state_name": "the Republic of Burundi",
+    "iso2": "BI",
+    "iso3": "BDI",
+    "numeric": "108",
+    "iso3166_2_link": "ISO 3166-2:BI"
+  },
+  {
+    "country": "Cabo Verde",
+    "state_name": "the Republic of Cabo Verde",
+    "iso2": "CV",
+    "iso3": "CPV",
+    "numeric": "132",
+    "iso3166_2_link": "ISO 3166-2:CV"
+  },
+  {
+    "country": "Cambodia",
+    "state_name": "the Kingdom of Cambodia",
+    "iso2": "KH",
+    "iso3": "KHM",
+    "numeric": "116",
+    "iso3166_2_link": "ISO 3166-2:KH"
+  },
+  {
+    "country": "Cameroon",
+    "state_name": "the Republic of Cameroon",
+    "iso2": "CM",
+    "iso3": "CMR",
+    "numeric": "120",
+    "iso3166_2_link": "ISO 3166-2:CM"
+  },
+  {
+    "country": "Canada",
+    "state_name": "Canada",
+    "iso2": "CA",
+    "iso3": "CAN",
+    "numeric": "124",
+    "iso3166_2_link": "ISO 3166-2:CA"
+  },
+  {
+    "country": "Cayman Islands (the)",
+    "state_name": "the Cayman Islands",
+    "iso2": "KY",
+    "iso3": "CYM",
+    "numeric": "136",
+    "iso3166_2_link": "ISO 3166-2:KY"
+  },
+  {
+    "country": "Central African Republic (the)",
+    "state_name": "the Central African Republic",
+    "iso2": "CF",
+    "iso3": "CAF",
+    "numeric": "140",
+    "iso3166_2_link": "ISO 3166-2:CF"
+  },
+  {
+    "country": "Chad",
+    "state_name": "the Republic of Chad",
+    "iso2": "TD",
+    "iso3": "TCD",
+    "numeric": "148",
+    "iso3166_2_link": "ISO 3166-2:TD"
+  },
+  {
+    "country": "Chile",
+    "state_name": "the Republic of Chile",
+    "iso2": "CL",
+    "iso3": "CHL",
+    "numeric": "152",
+    "iso3166_2_link": "ISO 3166-2:CL"
+  },
+  {
+    "country": "China",
+    "state_name": "the People's Republic of China",
+    "iso2": "CN",
+    "iso3": "CHN",
+    "numeric": "156",
+    "iso3166_2_link": "ISO 3166-2:CN"
+  },
+  {
+    "country": "Christmas Island",
+    "state_name": "the Territory of Christmas Island",
+    "iso2": "CX",
+    "iso3": "CXR",
+    "numeric": "162",
+    "iso3166_2_link": "ISO 3166-2:CX"
+  },
+  {
+    "country": "Cocos (Keeling) Islands (the)",
+    "state_name": "the Territory of Cocos (Keeling) Islands",
+    "iso2": "CC",
+    "iso3": "CCK",
+    "numeric": "166",
+    "iso3166_2_link": "ISO 3166-2:CC"
+  },
+  {
+    "country": "Colombia",
+    "state_name": "the Republic of Colombia",
+    "iso2": "CO",
+    "iso3": "COL",
+    "numeric": "170",
+    "iso3166_2_link": "ISO 3166-2:CO"
+  },
+  {
+    "country": "Comoros (the)",
+    "state_name": "the Union of the Comoros",
+    "iso2": "KM",
+    "iso3": "COM",
+    "numeric": "174",
+    "iso3166_2_link": "ISO 3166-2:KM"
+  },
+  {
+    "country": "Congo (the Democratic Republic of the)",
+    "state_name": "the Democratic Republic of the Congo",
+    "iso2": "CD",
+    "iso3": "COD",
+    "numeric": "180",
+    "iso3166_2_link": "ISO 3166-2:CD"
+  },
+  {
+    "country": "Congo (the)",
+    "state_name": "the Republic of the Congo",
+    "iso2": "CG",
+    "iso3": "COG",
+    "numeric": "178",
+    "iso3166_2_link": "ISO 3166-2:CG"
+  },
+  {
+    "country": "Cook Islands (the)",
+    "state_name": "the Cook Islands",
+    "iso2": "CK",
+    "iso3": "COK",
+    "numeric": "184",
+    "iso3166_2_link": "ISO 3166-2:CK"
+  },
+  {
+    "country": "Costa Rica",
+    "state_name": "the Republic of Costa Rica",
+    "iso2": "CR",
+    "iso3": "CRI",
+    "numeric": "188",
+    "iso3166_2_link": "ISO 3166-2:CR"
+  },
+  {
+    "country": "C\u00f4te d'Ivoire",
+    "state_name": "the Republic of C\u00f4te d'Ivoire",
+    "iso2": "CI",
+    "iso3": "CIV",
+    "numeric": "384",
+    "iso3166_2_link": "ISO 3166-2:CI"
+  },
+  {
+    "country": "Croatia",
+    "state_name": "the Republic of Croatia",
+    "iso2": "HR",
+    "iso3": "HRV",
+    "numeric": "191",
+    "iso3166_2_link": "ISO 3166-2:HR"
+  },
+  {
+    "country": "Cuba",
+    "state_name": "the Republic of Cuba",
+    "iso2": "CU",
+    "iso3": "CUB",
+    "numeric": "192",
+    "iso3166_2_link": "ISO 3166-2:CU"
+  },
+  {
+    "country": "Cura\u00e7ao",
+    "state_name": "the Country of Cura\u00e7ao",
+    "iso2": "CW",
+    "iso3": "CUW",
+    "numeric": "531",
+    "iso3166_2_link": "ISO 3166-2:CW"
+  },
+  {
+    "country": "Cyprus",
+    "state_name": "the Republic of Cyprus",
+    "iso2": "CY",
+    "iso3": "CYP",
+    "numeric": "196",
+    "iso3166_2_link": "ISO 3166-2:CY"
+  },
+  {
+    "country": "Czechia",
+    "state_name": "the Czech Republic",
+    "iso2": "CZ",
+    "iso3": "CZE",
+    "numeric": "203",
+    "iso3166_2_link": "ISO 3166-2:CZ"
+  },
+  {
+    "country": "Denmark",
+    "state_name": "the Kingdom of Denmark",
+    "iso2": "DK",
+    "iso3": "DNK",
+    "numeric": "208",
+    "iso3166_2_link": "ISO 3166-2:DK"
+  },
+  {
+    "country": "Djibouti",
+    "state_name": "the Republic of Djibouti",
+    "iso2": "DJ",
+    "iso3": "DJI",
+    "numeric": "262",
+    "iso3166_2_link": "ISO 3166-2:DJ"
+  },
+  {
+    "country": "Dominica",
+    "state_name": "the Commonwealth of Dominica",
+    "iso2": "DM",
+    "iso3": "DMA",
+    "numeric": "212",
+    "iso3166_2_link": "ISO 3166-2:DM"
+  },
+  {
+    "country": "Dominican Republic (the)",
+    "state_name": "the Dominican Republic",
+    "iso2": "DO",
+    "iso3": "DOM",
+    "numeric": "214",
+    "iso3166_2_link": "ISO 3166-2:DO"
+  },
+  {
+    "country": "Ecuador",
+    "state_name": "the Republic of Ecuador",
+    "iso2": "EC",
+    "iso3": "ECU",
+    "numeric": "218",
+    "iso3166_2_link": "ISO 3166-2:EC"
+  },
+  {
+    "country": "Egypt",
+    "state_name": "the Arab Republic of Egypt",
+    "iso2": "EG",
+    "iso3": "EGY",
+    "numeric": "818",
+    "iso3166_2_link": "ISO 3166-2:EG"
+  },
+  {
+    "country": "El Salvador",
+    "state_name": "the Republic of El Salvador",
+    "iso2": "SV",
+    "iso3": "SLV",
+    "numeric": "222",
+    "iso3166_2_link": "ISO 3166-2:SV"
+  },
+  {
+    "country": "Equatorial Guinea",
+    "state_name": "the Republic of Equatorial Guinea",
+    "iso2": "GQ",
+    "iso3": "GNQ",
+    "numeric": "226",
+    "iso3166_2_link": "ISO 3166-2:GQ"
+  },
+  {
+    "country": "Eritrea",
+    "state_name": "the State of Eritrea",
+    "iso2": "ER",
+    "iso3": "ERI",
+    "numeric": "232",
+    "iso3166_2_link": "ISO 3166-2:ER"
+  },
+  {
+    "country": "Estonia",
+    "state_name": "the Republic of Estonia",
+    "iso2": "EE",
+    "iso3": "EST",
+    "numeric": "233",
+    "iso3166_2_link": "ISO 3166-2:EE"
+  },
+  {
+    "country": "Eswatini",
+    "state_name": "the Kingdom of Eswatini",
+    "iso2": "SZ",
+    "iso3": "SWZ",
+    "numeric": "748",
+    "iso3166_2_link": "ISO 3166-2:SZ"
+  },
+  {
+    "country": "Ethiopia",
+    "state_name": "the Federal Democratic Republic of Ethiopia",
+    "iso2": "ET",
+    "iso3": "ETH",
+    "numeric": "231",
+    "iso3166_2_link": "ISO 3166-2:ET"
+  },
+  {
+    "country": "Falkland Islands (the) [Malvinas]",
+    "state_name": "the Falkland Islands",
+    "iso2": "FK",
+    "iso3": "FLK",
+    "numeric": "238",
+    "iso3166_2_link": "ISO 3166-2:FK"
+  },
+  {
+    "country": "Faroe Islands (the)",
+    "state_name": "the Faroe Islands",
+    "iso2": "FO",
+    "iso3": "FRO",
+    "numeric": "234",
+    "iso3166_2_link": "ISO 3166-2:FO"
+  },
+  {
+    "country": "Fiji",
+    "state_name": "the Republic of Fiji",
+    "iso2": "FJ",
+    "iso3": "FJI",
+    "numeric": "242",
+    "iso3166_2_link": "ISO 3166-2:FJ"
+  },
+  {
+    "country": "Finland",
+    "state_name": "the Republic of Finland",
+    "iso2": "FI",
+    "iso3": "FIN",
+    "numeric": "246",
+    "iso3166_2_link": "ISO 3166-2:FI"
+  },
+  {
+    "country": "France",
+    "state_name": "the French Republic",
+    "iso2": "FR",
+    "iso3": "FRA",
+    "numeric": "250",
+    "iso3166_2_link": "ISO 3166-2:FR"
+  },
+  {
+    "country": "French Guiana",
+    "state_name": "Guyane",
+    "iso2": "GF",
+    "iso3": "GUF",
+    "numeric": "254",
+    "iso3166_2_link": "ISO 3166-2:GF"
+  },
+  {
+    "country": "French Polynesia",
+    "state_name": "Overseas Lands of French Polynesia",
+    "iso2": "PF",
+    "iso3": "PYF",
+    "numeric": "258",
+    "iso3166_2_link": "ISO 3166-2:PF"
+  },
+  {
+    "country": "French Southern Territories (the)",
+    "state_name": "the French Southern and Antarctic Lands",
+    "iso2": "TF",
+    "iso3": "ATF",
+    "numeric": "260",
+    "iso3166_2_link": "ISO 3166-2:TF"
+  },
+  {
+    "country": "Gabon",
+    "state_name": "the Gabonese Republic",
+    "iso2": "GA",
+    "iso3": "GAB",
+    "numeric": "266",
+    "iso3166_2_link": "ISO 3166-2:GA"
+  },
+  {
+    "country": "Gambia (the)",
+    "state_name": "the Republic of The Gambia",
+    "iso2": "GM",
+    "iso3": "GMB",
+    "numeric": "270",
+    "iso3166_2_link": "ISO 3166-2:GM"
+  },
+  {
+    "country": "Georgia",
+    "state_name": "Georgia",
+    "iso2": "GE",
+    "iso3": "GEO",
+    "numeric": "268",
+    "iso3166_2_link": "ISO 3166-2:GE"
+  },
+  {
+    "country": "Germany",
+    "state_name": "the Federal Republic of Germany",
+    "iso2": "DE",
+    "iso3": "DEU",
+    "numeric": "276",
+    "iso3166_2_link": "ISO 3166-2:DE"
+  },
+  {
+    "country": "Ghana",
+    "state_name": "the Republic of Ghana",
+    "iso2": "GH",
+    "iso3": "GHA",
+    "numeric": "288",
+    "iso3166_2_link": "ISO 3166-2:GH"
+  },
+  {
+    "country": "Gibraltar",
+    "state_name": "Gibraltar",
+    "iso2": "GI",
+    "iso3": "GIB",
+    "numeric": "292",
+    "iso3166_2_link": "ISO 3166-2:GI"
+  },
+  {
+    "country": "Greece",
+    "state_name": "the Hellenic Republic",
+    "iso2": "GR",
+    "iso3": "GRC",
+    "numeric": "300",
+    "iso3166_2_link": "ISO 3166-2:GR"
+  },
+  {
+    "country": "Greenland",
+    "state_name": "Greenland",
+    "iso2": "GL",
+    "iso3": "GRL",
+    "numeric": "304",
+    "iso3166_2_link": "ISO 3166-2:GL"
+  },
+  {
+    "country": "Grenada",
+    "state_name": "Grenada",
+    "iso2": "GD",
+    "iso3": "GRD",
+    "numeric": "308",
+    "iso3166_2_link": "ISO 3166-2:GD"
+  },
+  {
+    "country": "Guadeloupe",
+    "state_name": "Guadeloupe",
+    "iso2": "GP",
+    "iso3": "GLP",
+    "numeric": "312",
+    "iso3166_2_link": "ISO 3166-2:GP"
+  },
+  {
+    "country": "Guam",
+    "state_name": "Guam",
+    "iso2": "GU",
+    "iso3": "GUM",
+    "numeric": "316",
+    "iso3166_2_link": "ISO 3166-2:GU"
+  },
+  {
+    "country": "Guatemala",
+    "state_name": "the Republic of Guatemala",
+    "iso2": "GT",
+    "iso3": "GTM",
+    "numeric": "320",
+    "iso3166_2_link": "ISO 3166-2:GT"
+  },
+  {
+    "country": "Guernsey",
+    "state_name": "the Bailiwick of Guernsey",
+    "iso2": "GG",
+    "iso3": "GGY",
+    "numeric": "831",
+    "iso3166_2_link": "ISO 3166-2:GG"
+  },
+  {
+    "country": "Guinea",
+    "state_name": "the Republic of Guinea",
+    "iso2": "GN",
+    "iso3": "GIN",
+    "numeric": "324",
+    "iso3166_2_link": "ISO 3166-2:GN"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "state_name": "the Republic of Guinea-Bissau",
+    "iso2": "GW",
+    "iso3": "GNB",
+    "numeric": "624",
+    "iso3166_2_link": "ISO 3166-2:GW"
+  },
+  {
+    "country": "Guyana",
+    "state_name": "the Co-operative Republic of Guyana",
+    "iso2": "GY",
+    "iso3": "GUY",
+    "numeric": "328",
+    "iso3166_2_link": "ISO 3166-2:GY"
+  },
+  {
+    "country": "Haiti",
+    "state_name": "the Republic of Haiti",
+    "iso2": "HT",
+    "iso3": "HTI",
+    "numeric": "332",
+    "iso3166_2_link": "ISO 3166-2:HT"
+  },
+  {
+    "country": "Heard Island and McDonald Islands",
+    "state_name": "the Territory of Heard Island and McDonald Islands",
+    "iso2": "HM",
+    "iso3": "HMD",
+    "numeric": "334",
+    "iso3166_2_link": "ISO 3166-2:HM"
+  },
+  {
+    "country": "Holy See (the)",
+    "state_name": "the Holy See",
+    "iso2": "VA",
+    "iso3": "VAT",
+    "numeric": "336",
+    "iso3166_2_link": "ISO 3166-2:VA"
+  },
+  {
+    "country": "Honduras",
+    "state_name": "the Republic of Honduras",
+    "iso2": "HN",
+    "iso3": "HND",
+    "numeric": "340",
+    "iso3166_2_link": "ISO 3166-2:HN"
+  },
+  {
+    "country": "Hong Kong",
+    "state_name": "the Hong Kong Special Administrative Region of China",
+    "iso2": "HK",
+    "iso3": "HKG",
+    "numeric": "344",
+    "iso3166_2_link": "ISO 3166-2:HK"
+  },
+  {
+    "country": "Hungary",
+    "state_name": "Hungary",
+    "iso2": "HU",
+    "iso3": "HUN",
+    "numeric": "348",
+    "iso3166_2_link": "ISO 3166-2:HU"
+  },
+  {
+    "country": "Iceland",
+    "state_name": "Iceland",
+    "iso2": "IS",
+    "iso3": "ISL",
+    "numeric": "352",
+    "iso3166_2_link": "ISO 3166-2:IS"
+  },
+  {
+    "country": "India",
+    "state_name": "the Republic of India",
+    "iso2": "IN",
+    "iso3": "IND",
+    "numeric": "356",
+    "iso3166_2_link": "ISO 3166-2:IN"
+  },
+  {
+    "country": "Indonesia",
+    "state_name": "the Republic of Indonesia",
+    "iso2": "ID",
+    "iso3": "IDN",
+    "numeric": "360",
+    "iso3166_2_link": "ISO 3166-2:ID"
+  },
+  {
+    "country": "Iran (Islamic Republic of)",
+    "state_name": "the Islamic Republic of Iran",
+    "iso2": "IR",
+    "iso3": "IRN",
+    "numeric": "364",
+    "iso3166_2_link": "ISO 3166-2:IR"
+  },
+  {
+    "country": "Iraq",
+    "state_name": "the Republic of Iraq",
+    "iso2": "IQ",
+    "iso3": "IRQ",
+    "numeric": "368",
+    "iso3166_2_link": "ISO 3166-2:IQ"
+  },
+  {
+    "country": "Ireland",
+    "state_name": "Ireland",
+    "iso2": "IE",
+    "iso3": "IRL",
+    "numeric": "372",
+    "iso3166_2_link": "ISO 3166-2:IE"
+  },
+  {
+    "country": "Isle of Man",
+    "state_name": "the Isle of Man",
+    "iso2": "IM",
+    "iso3": "IMN",
+    "numeric": "833",
+    "iso3166_2_link": "ISO 3166-2:IM"
+  },
+  {
+    "country": "Israel",
+    "state_name": "the State of Israel",
+    "iso2": "IL",
+    "iso3": "ISR",
+    "numeric": "376",
+    "iso3166_2_link": "ISO 3166-2:IL"
+  },
+  {
+    "country": "Italy",
+    "state_name": "the Italian Republic",
+    "iso2": "IT",
+    "iso3": "ITA",
+    "numeric": "380",
+    "iso3166_2_link": "ISO 3166-2:IT"
+  },
+  {
+    "country": "Jamaica",
+    "state_name": "Jamaica",
+    "iso2": "JM",
+    "iso3": "JAM",
+    "numeric": "388",
+    "iso3166_2_link": "ISO 3166-2:JM"
+  },
+  {
+    "country": "Japan",
+    "state_name": "Japan",
+    "iso2": "JP",
+    "iso3": "JPN",
+    "numeric": "392",
+    "iso3166_2_link": "ISO 3166-2:JP"
+  },
+  {
+    "country": "Jersey",
+    "state_name": "the Bailiwick of Jersey",
+    "iso2": "JE",
+    "iso3": "JEY",
+    "numeric": "832",
+    "iso3166_2_link": "ISO 3166-2:JE"
+  },
+  {
+    "country": "Jordan",
+    "state_name": "the Hashemite Kingdom of Jordan",
+    "iso2": "JO",
+    "iso3": "JOR",
+    "numeric": "400",
+    "iso3166_2_link": "ISO 3166-2:JO"
+  },
+  {
+    "country": "Kazakhstan",
+    "state_name": "the Republic of Kazakhstan",
+    "iso2": "KZ",
+    "iso3": "KAZ",
+    "numeric": "398",
+    "iso3166_2_link": "ISO 3166-2:KZ"
+  },
+  {
+    "country": "Kenya",
+    "state_name": "the Republic of Kenya",
+    "iso2": "KE",
+    "iso3": "KEN",
+    "numeric": "404",
+    "iso3166_2_link": "ISO 3166-2:KE"
+  },
+  {
+    "country": "Kiribati",
+    "state_name": "the Republic of Kiribati",
+    "iso2": "KI",
+    "iso3": "KIR",
+    "numeric": "296",
+    "iso3166_2_link": "ISO 3166-2:KI"
+  },
+  {
+    "country": "Korea (the Democratic People's Republic of)",
+    "state_name": "the Democratic People's Republic of Korea",
+    "iso2": "KP",
+    "iso3": "PRK",
+    "numeric": "408",
+    "iso3166_2_link": "ISO 3166-2:KP"
+  },
+  {
+    "country": "Korea (the Republic of)",
+    "state_name": "the Republic of Korea",
+    "iso2": "KR",
+    "iso3": "KOR",
+    "numeric": "410",
+    "iso3166_2_link": "ISO 3166-2:KR"
+  },
+  {
+    "country": "Kuwait",
+    "state_name": "the State of Kuwait",
+    "iso2": "KW",
+    "iso3": "KWT",
+    "numeric": "414",
+    "iso3166_2_link": "ISO 3166-2:KW"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "state_name": "the Kyrgyz Republic",
+    "iso2": "KG",
+    "iso3": "KGZ",
+    "numeric": "417",
+    "iso3166_2_link": "ISO 3166-2:KG"
+  },
+  {
+    "country": "Lao People's Democratic Republic (the)",
+    "state_name": "the Lao People's Democratic Republic",
+    "iso2": "LA",
+    "iso3": "LAO",
+    "numeric": "418",
+    "iso3166_2_link": "ISO 3166-2:LA"
+  },
+  {
+    "country": "Latvia",
+    "state_name": "the Republic of Latvia",
+    "iso2": "LV",
+    "iso3": "LVA",
+    "numeric": "428",
+    "iso3166_2_link": "ISO 3166-2:LV"
+  },
+  {
+    "country": "Lebanon",
+    "state_name": "the Lebanese Republic",
+    "iso2": "LB",
+    "iso3": "LBN",
+    "numeric": "422",
+    "iso3166_2_link": "ISO 3166-2:LB"
+  },
+  {
+    "country": "Lesotho",
+    "state_name": "the Kingdom of Lesotho",
+    "iso2": "LS",
+    "iso3": "LSO",
+    "numeric": "426",
+    "iso3166_2_link": "ISO 3166-2:LS"
+  },
+  {
+    "country": "Liberia",
+    "state_name": "the Republic of Liberia",
+    "iso2": "LR",
+    "iso3": "LBR",
+    "numeric": "430",
+    "iso3166_2_link": "ISO 3166-2:LR"
+  },
+  {
+    "country": "Libya",
+    "state_name": "the State of Libya",
+    "iso2": "LY",
+    "iso3": "LBY",
+    "numeric": "434",
+    "iso3166_2_link": "ISO 3166-2:LY"
+  },
+  {
+    "country": "Liechtenstein",
+    "state_name": "the Principality of Liechtenstein",
+    "iso2": "LI",
+    "iso3": "LIE",
+    "numeric": "438",
+    "iso3166_2_link": "ISO 3166-2:LI"
+  },
+  {
+    "country": "Lithuania",
+    "state_name": "the Republic of Lithuania",
+    "iso2": "LT",
+    "iso3": "LTU",
+    "numeric": "440",
+    "iso3166_2_link": "ISO 3166-2:LT"
+  },
+  {
+    "country": "Luxembourg",
+    "state_name": "the Grand Duchy of Luxembourg",
+    "iso2": "LU",
+    "iso3": "LUX",
+    "numeric": "442",
+    "iso3166_2_link": "ISO 3166-2:LU"
+  },
+  {
+    "country": "Macao",
+    "state_name": "the Macao Special Administrative Region of China",
+    "iso2": "MO",
+    "iso3": "MAC",
+    "numeric": "446",
+    "iso3166_2_link": "ISO 3166-2:MO"
+  },
+  {
+    "country": "Madagascar",
+    "state_name": "the Republic of Madagascar",
+    "iso2": "MG",
+    "iso3": "MDG",
+    "numeric": "450",
+    "iso3166_2_link": "ISO 3166-2:MG"
+  },
+  {
+    "country": "Malawi",
+    "state_name": "the Republic of Malawi",
+    "iso2": "MW",
+    "iso3": "MWI",
+    "numeric": "454",
+    "iso3166_2_link": "ISO 3166-2:MW"
+  },
+  {
+    "country": "Malaysia",
+    "state_name": "Malaysia",
+    "iso2": "MY",
+    "iso3": "MYS",
+    "numeric": "458",
+    "iso3166_2_link": "ISO 3166-2:MY"
+  },
+  {
+    "country": "Maldives",
+    "state_name": "the Republic of Maldives",
+    "iso2": "MV",
+    "iso3": "MDV",
+    "numeric": "462",
+    "iso3166_2_link": "ISO 3166-2:MV"
+  },
+  {
+    "country": "Mali",
+    "state_name": "the Republic of Mali",
+    "iso2": "ML",
+    "iso3": "MLI",
+    "numeric": "466",
+    "iso3166_2_link": "ISO 3166-2:ML"
+  },
+  {
+    "country": "Malta",
+    "state_name": "the Republic of Malta",
+    "iso2": "MT",
+    "iso3": "MLT",
+    "numeric": "470",
+    "iso3166_2_link": "ISO 3166-2:MT"
+  },
+  {
+    "country": "Marshall Islands (the)",
+    "state_name": "the Republic of the Marshall Islands",
+    "iso2": "MH",
+    "iso3": "MHL",
+    "numeric": "584",
+    "iso3166_2_link": "ISO 3166-2:MH"
+  },
+  {
+    "country": "Martinique",
+    "state_name": "Martinique",
+    "iso2": "MQ",
+    "iso3": "MTQ",
+    "numeric": "474",
+    "iso3166_2_link": "ISO 3166-2:MQ"
+  },
+  {
+    "country": "Mauritania",
+    "state_name": "the Islamic Republic of Mauritania",
+    "iso2": "MR",
+    "iso3": "MRT",
+    "numeric": "478",
+    "iso3166_2_link": "ISO 3166-2:MR"
+  },
+  {
+    "country": "Mauritius",
+    "state_name": "the Republic of Mauritius",
+    "iso2": "MU",
+    "iso3": "MUS",
+    "numeric": "480",
+    "iso3166_2_link": "ISO 3166-2:MU"
+  },
+  {
+    "country": "Mayotte",
+    "state_name": "the Department of Mayotte",
+    "iso2": "YT",
+    "iso3": "MYT",
+    "numeric": "175",
+    "iso3166_2_link": "ISO 3166-2:YT"
+  },
+  {
+    "country": "Mexico",
+    "state_name": "the United Mexican States",
+    "iso2": "MX",
+    "iso3": "MEX",
+    "numeric": "484",
+    "iso3166_2_link": "ISO 3166-2:MX"
+  },
+  {
+    "country": "Micronesia (Federated States of)",
+    "state_name": "the Federated States of Micronesia",
+    "iso2": "FM",
+    "iso3": "FSM",
+    "numeric": "583",
+    "iso3166_2_link": "ISO 3166-2:FM"
+  },
+  {
+    "country": "Moldova (the Republic of)",
+    "state_name": "the Republic of Moldova",
+    "iso2": "MD",
+    "iso3": "MDA",
+    "numeric": "498",
+    "iso3166_2_link": "ISO 3166-2:MD"
+  },
+  {
+    "country": "Monaco",
+    "state_name": "the Principality of Monaco",
+    "iso2": "MC",
+    "iso3": "MCO",
+    "numeric": "492",
+    "iso3166_2_link": "ISO 3166-2:MC"
+  },
+  {
+    "country": "Mongolia",
+    "state_name": "Mongolia",
+    "iso2": "MN",
+    "iso3": "MNG",
+    "numeric": "496",
+    "iso3166_2_link": "ISO 3166-2:MN"
+  },
+  {
+    "country": "Montenegro",
+    "state_name": "Montenegro",
+    "iso2": "ME",
+    "iso3": "MNE",
+    "numeric": "499",
+    "iso3166_2_link": "ISO 3166-2:ME"
+  },
+  {
+    "country": "Montserrat",
+    "state_name": "Montserrat",
+    "iso2": "MS",
+    "iso3": "MSR",
+    "numeric": "500",
+    "iso3166_2_link": "ISO 3166-2:MS"
+  },
+  {
+    "country": "Morocco",
+    "state_name": "the Kingdom of Morocco",
+    "iso2": "MA",
+    "iso3": "MAR",
+    "numeric": "504",
+    "iso3166_2_link": "ISO 3166-2:MA"
+  },
+  {
+    "country": "Mozambique",
+    "state_name": "the Republic of Mozambique",
+    "iso2": "MZ",
+    "iso3": "MOZ",
+    "numeric": "508",
+    "iso3166_2_link": "ISO 3166-2:MZ"
+  },
+  {
+    "country": "Myanmar",
+    "state_name": "the Republic of the Union of Myanmar",
+    "iso2": "MM",
+    "iso3": "MMR",
+    "numeric": "104",
+    "iso3166_2_link": "ISO 3166-2:MM"
+  },
+  {
+    "country": "Namibia",
+    "state_name": "the Republic of Namibia",
+    "iso2": "NA",
+    "iso3": "NAM",
+    "numeric": "516",
+    "iso3166_2_link": "ISO 3166-2:NA"
+  },
+  {
+    "country": "Nauru",
+    "state_name": "the Republic of Nauru",
+    "iso2": "NR",
+    "iso3": "NRU",
+    "numeric": "520",
+    "iso3166_2_link": "ISO 3166-2:NR"
+  },
+  {
+    "country": "Nepal",
+    "state_name": "the Federal Democratic Republic of Nepal",
+    "iso2": "NP",
+    "iso3": "NPL",
+    "numeric": "524",
+    "iso3166_2_link": "ISO 3166-2:NP"
+  },
+  {
+    "country": "Netherlands (Kingdom of the)",
+    "state_name": "the Kingdom of the Netherlands",
+    "iso2": "NL",
+    "iso3": "NLD",
+    "numeric": "528",
+    "iso3166_2_link": "ISO 3166-2:NL"
+  },
+  {
+    "country": "New Caledonia",
+    "state_name": "New Caledonia",
+    "iso2": "NC",
+    "iso3": "NCL",
+    "numeric": "540",
+    "iso3166_2_link": "ISO 3166-2:NC"
+  },
+  {
+    "country": "New Zealand",
+    "state_name": "New Zealand",
+    "iso2": "NZ",
+    "iso3": "NZL",
+    "numeric": "554",
+    "iso3166_2_link": "ISO 3166-2:NZ"
+  },
+  {
+    "country": "Nicaragua",
+    "state_name": "the Republic of Nicaragua",
+    "iso2": "NI",
+    "iso3": "NIC",
+    "numeric": "558",
+    "iso3166_2_link": "ISO 3166-2:NI"
+  },
+  {
+    "country": "Niger (the)",
+    "state_name": "the Republic of the Niger",
+    "iso2": "NE",
+    "iso3": "NER",
+    "numeric": "562",
+    "iso3166_2_link": "ISO 3166-2:NE"
+  },
+  {
+    "country": "Nigeria",
+    "state_name": "the Federal Republic of Nigeria",
+    "iso2": "NG",
+    "iso3": "NGA",
+    "numeric": "566",
+    "iso3166_2_link": "ISO 3166-2:NG"
+  },
+  {
+    "country": "Niue",
+    "state_name": "Niue",
+    "iso2": "NU",
+    "iso3": "NIU",
+    "numeric": "570",
+    "iso3166_2_link": "ISO 3166-2:NU"
+  },
+  {
+    "country": "Norfolk Island",
+    "state_name": "the Territory of Norfolk Island",
+    "iso2": "NF",
+    "iso3": "NFK",
+    "numeric": "574",
+    "iso3166_2_link": "ISO 3166-2:NF"
+  },
+  {
+    "country": "North Macedonia",
+    "state_name": "the Republic of North Macedonia",
+    "iso2": "MK",
+    "iso3": "MKD",
+    "numeric": "807",
+    "iso3166_2_link": "ISO 3166-2:MK"
+  },
+  {
+    "country": "Northern Mariana Islands (the)",
+    "state_name": "the Commonwealth of the Northern Mariana Islands",
+    "iso2": "MP",
+    "iso3": "MNP",
+    "numeric": "580",
+    "iso3166_2_link": "ISO 3166-2:MP"
+  },
+  {
+    "country": "Norway",
+    "state_name": "the Kingdom of Norway",
+    "iso2": "NO",
+    "iso3": "NOR",
+    "numeric": "578",
+    "iso3166_2_link": "ISO 3166-2:NO"
+  },
+  {
+    "country": "Oman",
+    "state_name": "the Sultanate of Oman",
+    "iso2": "OM",
+    "iso3": "OMN",
+    "numeric": "512",
+    "iso3166_2_link": "ISO 3166-2:OM"
+  },
+  {
+    "country": "Pakistan",
+    "state_name": "the Islamic Republic of Pakistan",
+    "iso2": "PK",
+    "iso3": "PAK",
+    "numeric": "586",
+    "iso3166_2_link": "ISO 3166-2:PK"
+  },
+  {
+    "country": "Palau",
+    "state_name": "the Republic of Palau",
+    "iso2": "PW",
+    "iso3": "PLW",
+    "numeric": "585",
+    "iso3166_2_link": "ISO 3166-2:PW"
+  },
+  {
+    "country": "Palestine, State of",
+    "state_name": "the State of Palestine",
+    "iso2": "PS",
+    "iso3": "PSE",
+    "numeric": "275",
+    "iso3166_2_link": "ISO 3166-2:PS"
+  },
+  {
+    "country": "Panama",
+    "state_name": "the Republic of Panama",
+    "iso2": "PA",
+    "iso3": "PAN",
+    "numeric": "591",
+    "iso3166_2_link": "ISO 3166-2:PA"
+  },
+  {
+    "country": "Papua New Guinea",
+    "state_name": "the Independent State of Papua New Guinea",
+    "iso2": "PG",
+    "iso3": "PNG",
+    "numeric": "598",
+    "iso3166_2_link": "ISO 3166-2:PG"
+  },
+  {
+    "country": "Paraguay",
+    "state_name": "the Republic of Paraguay",
+    "iso2": "PY",
+    "iso3": "PRY",
+    "numeric": "600",
+    "iso3166_2_link": "ISO 3166-2:PY"
+  },
+  {
+    "country": "Peru",
+    "state_name": "the Republic of Peru",
+    "iso2": "PE",
+    "iso3": "PER",
+    "numeric": "604",
+    "iso3166_2_link": "ISO 3166-2:PE"
+  },
+  {
+    "country": "Philippines (the)",
+    "state_name": "the Republic of the Philippines",
+    "iso2": "PH",
+    "iso3": "PHL",
+    "numeric": "608",
+    "iso3166_2_link": "ISO 3166-2:PH"
+  },
+  {
+    "country": "Pitcairn",
+    "state_name": "the Pitcairn, Henderson, Ducie and Oeno Islands",
+    "iso2": "PN",
+    "iso3": "PCN",
+    "numeric": "612",
+    "iso3166_2_link": "ISO 3166-2:PN"
+  },
+  {
+    "country": "Poland",
+    "state_name": "the Republic of Poland",
+    "iso2": "PL",
+    "iso3": "POL",
+    "numeric": "616",
+    "iso3166_2_link": "ISO 3166-2:PL"
+  },
+  {
+    "country": "Portugal",
+    "state_name": "the Portuguese Republic",
+    "iso2": "PT",
+    "iso3": "PRT",
+    "numeric": "620",
+    "iso3166_2_link": "ISO 3166-2:PT"
+  },
+  {
+    "country": "Puerto Rico",
+    "state_name": "the Commonwealth of Puerto Rico",
+    "iso2": "PR",
+    "iso3": "PRI",
+    "numeric": "630",
+    "iso3166_2_link": "ISO 3166-2:PR"
+  },
+  {
+    "country": "Qatar",
+    "state_name": "the State of Qatar",
+    "iso2": "QA",
+    "iso3": "QAT",
+    "numeric": "634",
+    "iso3166_2_link": "ISO 3166-2:QA"
+  },
+  {
+    "country": "R\u00e9union",
+    "state_name": "R\u00e9union",
+    "iso2": "RE",
+    "iso3": "REU",
+    "numeric": "638",
+    "iso3166_2_link": "ISO 3166-2:RE"
+  },
+  {
+    "country": "Romania",
+    "state_name": "Romania",
+    "iso2": "RO",
+    "iso3": "ROU",
+    "numeric": "642",
+    "iso3166_2_link": "ISO 3166-2:RO"
+  },
+  {
+    "country": "Russian Federation (the)",
+    "state_name": "the Russian Federation",
+    "iso2": "RU",
+    "iso3": "RUS",
+    "numeric": "643",
+    "iso3166_2_link": "ISO 3166-2:RU"
+  },
+  {
+    "country": "Rwanda",
+    "state_name": "the Republic of Rwanda",
+    "iso2": "RW",
+    "iso3": "RWA",
+    "numeric": "646",
+    "iso3166_2_link": "ISO 3166-2:RW"
+  },
+  {
+    "country": "Saint Barth\u00e9lemy",
+    "state_name": "the Collectivity of Saint-Barth\u00e9lemy",
+    "iso2": "BL",
+    "iso3": "BLM",
+    "numeric": "652",
+    "iso3166_2_link": "ISO 3166-2:BL"
+  },
+  {
+    "country": "Saint HelenaAscension IslandTristan da Cunha",
+    "state_name": "Saint Helena, Ascension and Tristan da Cunha",
+    "iso2": "SH",
+    "iso3": "SHN",
+    "numeric": "654",
+    "iso3166_2_link": "ISO 3166-2:SH"
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "state_name": "the Federation of Saint Kitts and Nevis",
+    "iso2": "KN",
+    "iso3": "KNA",
+    "numeric": "659",
+    "iso3166_2_link": "ISO 3166-2:KN"
+  },
+  {
+    "country": "Saint Lucia",
+    "state_name": "Saint Lucia",
+    "iso2": "LC",
+    "iso3": "LCA",
+    "numeric": "662",
+    "iso3166_2_link": "ISO 3166-2:LC"
+  },
+  {
+    "country": "Saint Martin (French part)",
+    "state_name": "the Collectivity of Saint-Martin",
+    "iso2": "MF",
+    "iso3": "MAF",
+    "numeric": "663",
+    "iso3166_2_link": "ISO 3166-2:MF"
+  },
+  {
+    "country": "Saint Pierre and Miquelon",
+    "state_name": "the Overseas Collectivity of Saint-Pierre and Miquelon",
+    "iso2": "PM",
+    "iso3": "SPM",
+    "numeric": "666",
+    "iso3166_2_link": "ISO 3166-2:PM"
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "state_name": "Saint Vincent and the Grenadines",
+    "iso2": "VC",
+    "iso3": "VCT",
+    "numeric": "670",
+    "iso3166_2_link": "ISO 3166-2:VC"
+  },
+  {
+    "country": "Samoa",
+    "state_name": "the Independent State of Samoa",
+    "iso2": "WS",
+    "iso3": "WSM",
+    "numeric": "882",
+    "iso3166_2_link": "ISO 3166-2:WS"
+  },
+  {
+    "country": "San Marino",
+    "state_name": "the Republic of San Marino",
+    "iso2": "SM",
+    "iso3": "SMR",
+    "numeric": "674",
+    "iso3166_2_link": "ISO 3166-2:SM"
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "state_name": "the Democratic Republic of S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "iso2": "ST",
+    "iso3": "STP",
+    "numeric": "678",
+    "iso3166_2_link": "ISO 3166-2:ST"
+  },
+  {
+    "country": "Saudi Arabia",
+    "state_name": "the Kingdom of Saudi Arabia",
+    "iso2": "SA",
+    "iso3": "SAU",
+    "numeric": "682",
+    "iso3166_2_link": "ISO 3166-2:SA"
+  },
+  {
+    "country": "Senegal",
+    "state_name": "the Republic of Senegal",
+    "iso2": "SN",
+    "iso3": "SEN",
+    "numeric": "686",
+    "iso3166_2_link": "ISO 3166-2:SN"
+  },
+  {
+    "country": "Serbia",
+    "state_name": "the Republic of Serbia",
+    "iso2": "RS",
+    "iso3": "SRB",
+    "numeric": "688",
+    "iso3166_2_link": "ISO 3166-2:RS"
+  },
+  {
+    "country": "Seychelles",
+    "state_name": "the Republic of Seychelles",
+    "iso2": "SC",
+    "iso3": "SYC",
+    "numeric": "690",
+    "iso3166_2_link": "ISO 3166-2:SC"
+  },
+  {
+    "country": "Sierra Leone",
+    "state_name": "the Republic of Sierra Leone",
+    "iso2": "SL",
+    "iso3": "SLE",
+    "numeric": "694",
+    "iso3166_2_link": "ISO 3166-2:SL"
+  },
+  {
+    "country": "Singapore",
+    "state_name": "the Republic of Singapore",
+    "iso2": "SG",
+    "iso3": "SGP",
+    "numeric": "702",
+    "iso3166_2_link": "ISO 3166-2:SG"
+  },
+  {
+    "country": "Sint Maarten (Dutch part)",
+    "state_name": "Sint Maarten",
+    "iso2": "SX",
+    "iso3": "SXM",
+    "numeric": "534",
+    "iso3166_2_link": "ISO 3166-2:SX"
+  },
+  {
+    "country": "Slovakia",
+    "state_name": "the Slovak Republic",
+    "iso2": "SK",
+    "iso3": "SVK",
+    "numeric": "703",
+    "iso3166_2_link": "ISO 3166-2:SK"
+  },
+  {
+    "country": "Slovenia",
+    "state_name": "the Republic of Slovenia",
+    "iso2": "SI",
+    "iso3": "SVN",
+    "numeric": "705",
+    "iso3166_2_link": "ISO 3166-2:SI"
+  },
+  {
+    "country": "Solomon Islands",
+    "state_name": "the Solomon Islands",
+    "iso2": "SB",
+    "iso3": "SLB",
+    "numeric": "090",
+    "iso3166_2_link": "ISO 3166-2:SB"
+  },
+  {
+    "country": "Somalia",
+    "state_name": "the Federal Republic of Somalia",
+    "iso2": "SO",
+    "iso3": "SOM",
+    "numeric": "706",
+    "iso3166_2_link": "ISO 3166-2:SO"
+  },
+  {
+    "country": "South Africa",
+    "state_name": "the Republic of South Africa",
+    "iso2": "ZA",
+    "iso3": "ZAF",
+    "numeric": "710",
+    "iso3166_2_link": "ISO 3166-2:ZA"
+  },
+  {
+    "country": "South Georgia and the South Sandwich Islands",
+    "state_name": "South Georgia and the South Sandwich Islands",
+    "iso2": "GS",
+    "iso3": "SGS",
+    "numeric": "239",
+    "iso3166_2_link": "ISO 3166-2:GS"
+  },
+  {
+    "country": "South Sudan",
+    "state_name": "the Republic of South Sudan",
+    "iso2": "SS",
+    "iso3": "SSD",
+    "numeric": "728",
+    "iso3166_2_link": "ISO 3166-2:SS"
+  },
+  {
+    "country": "Spain",
+    "state_name": "the Kingdom of Spain",
+    "iso2": "ES",
+    "iso3": "ESP",
+    "numeric": "724",
+    "iso3166_2_link": "ISO 3166-2:ES"
+  },
+  {
+    "country": "Sri Lanka",
+    "state_name": "the Democratic Socialist Republic of Sri Lanka",
+    "iso2": "LK",
+    "iso3": "LKA",
+    "numeric": "144",
+    "iso3166_2_link": "ISO 3166-2:LK"
+  },
+  {
+    "country": "Sudan (the)",
+    "state_name": "the Republic of the Sudan",
+    "iso2": "SD",
+    "iso3": "SDN",
+    "numeric": "729",
+    "iso3166_2_link": "ISO 3166-2:SD"
+  },
+  {
+    "country": "Suriname",
+    "state_name": "the Republic of Suriname",
+    "iso2": "SR",
+    "iso3": "SUR",
+    "numeric": "740",
+    "iso3166_2_link": "ISO 3166-2:SR"
+  },
+  {
+    "country": "SvalbardJan Mayen",
+    "state_name": "Svalbard and Jan Mayen",
+    "iso2": "SJ",
+    "iso3": "SJM",
+    "numeric": "744",
+    "iso3166_2_link": "ISO 3166-2:SJ"
+  },
+  {
+    "country": "Sweden",
+    "state_name": "the Kingdom of Sweden",
+    "iso2": "SE",
+    "iso3": "SWE",
+    "numeric": "752",
+    "iso3166_2_link": "ISO 3166-2:SE"
+  },
+  {
+    "country": "Switzerland",
+    "state_name": "the Swiss Confederation",
+    "iso2": "CH",
+    "iso3": "CHE",
+    "numeric": "756",
+    "iso3166_2_link": "ISO 3166-2:CH"
+  },
+  {
+    "country": "Syrian Arab Republic (the)",
+    "state_name": "the Syrian Arab Republic",
+    "iso2": "SY",
+    "iso3": "SYR",
+    "numeric": "760",
+    "iso3166_2_link": "ISO 3166-2:SY"
+  },
+  {
+    "country": "Taiwan (Province of China)",
+    "state_name": "the Republic of China",
+    "iso2": "TW",
+    "iso3": "TWN",
+    "numeric": "158",
+    "iso3166_2_link": "ISO 3166-2:TW"
+  },
+  {
+    "country": "Tajikistan",
+    "state_name": "the Republic of Tajikistan",
+    "iso2": "TJ",
+    "iso3": "TJK",
+    "numeric": "762",
+    "iso3166_2_link": "ISO 3166-2:TJ"
+  },
+  {
+    "country": "Tanzania, the United Republic of",
+    "state_name": "the United Republic of Tanzania",
+    "iso2": "TZ",
+    "iso3": "TZA",
+    "numeric": "834",
+    "iso3166_2_link": "ISO 3166-2:TZ"
+  },
+  {
+    "country": "Thailand",
+    "state_name": "the Kingdom of Thailand",
+    "iso2": "TH",
+    "iso3": "THA",
+    "numeric": "764",
+    "iso3166_2_link": "ISO 3166-2:TH"
+  },
+  {
+    "country": "Timor-Leste",
+    "state_name": "the Democratic Republic of Timor-Leste",
+    "iso2": "TL",
+    "iso3": "TLS",
+    "numeric": "626",
+    "iso3166_2_link": "ISO 3166-2:TL"
+  },
+  {
+    "country": "Togo",
+    "state_name": "the Togolese Republic",
+    "iso2": "TG",
+    "iso3": "TGO",
+    "numeric": "768",
+    "iso3166_2_link": "ISO 3166-2:TG"
+  },
+  {
+    "country": "Tokelau",
+    "state_name": "Tokelau",
+    "iso2": "TK",
+    "iso3": "TKL",
+    "numeric": "772",
+    "iso3166_2_link": "ISO 3166-2:TK"
+  },
+  {
+    "country": "Tonga",
+    "state_name": "the Kingdom of Tonga",
+    "iso2": "TO",
+    "iso3": "TON",
+    "numeric": "776",
+    "iso3166_2_link": "ISO 3166-2:TO"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "state_name": "the Republic of Trinidad and Tobago",
+    "iso2": "TT",
+    "iso3": "TTO",
+    "numeric": "780",
+    "iso3166_2_link": "ISO 3166-2:TT"
+  },
+  {
+    "country": "Tunisia",
+    "state_name": "the Republic of Tunisia",
+    "iso2": "TN",
+    "iso3": "TUN",
+    "numeric": "788",
+    "iso3166_2_link": "ISO 3166-2:TN"
+  },
+  {
+    "country": "T\u00fcrkiye",
+    "state_name": "the Republic of T\u00fcrkiye",
+    "iso2": "TR",
+    "iso3": "TUR",
+    "numeric": "792",
+    "iso3166_2_link": "ISO 3166-2:TR"
+  },
+  {
+    "country": "Turkmenistan",
+    "state_name": "Turkmenistan",
+    "iso2": "TM",
+    "iso3": "TKM",
+    "numeric": "795",
+    "iso3166_2_link": "ISO 3166-2:TM"
+  },
+  {
+    "country": "Turks and Caicos Islands (the)",
+    "state_name": "the Turks and Caicos Islands",
+    "iso2": "TC",
+    "iso3": "TCA",
+    "numeric": "796",
+    "iso3166_2_link": "ISO 3166-2:TC"
+  },
+  {
+    "country": "Tuvalu",
+    "state_name": "Tuvalu",
+    "iso2": "TV",
+    "iso3": "TUV",
+    "numeric": "798",
+    "iso3166_2_link": "ISO 3166-2:TV"
+  },
+  {
+    "country": "Uganda",
+    "state_name": "the Republic of Uganda",
+    "iso2": "UG",
+    "iso3": "UGA",
+    "numeric": "800",
+    "iso3166_2_link": "ISO 3166-2:UG"
+  },
+  {
+    "country": "Ukraine",
+    "state_name": "Ukraine",
+    "iso2": "UA",
+    "iso3": "UKR",
+    "numeric": "804",
+    "iso3166_2_link": "ISO 3166-2:UA"
+  },
+  {
+    "country": "United Arab Emirates (the)",
+    "state_name": "the United Arab Emirates",
+    "iso2": "AE",
+    "iso3": "ARE",
+    "numeric": "784",
+    "iso3166_2_link": "ISO 3166-2:AE"
+  },
+  {
+    "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+    "state_name": "the United Kingdom of Great Britain and Northern Ireland",
+    "iso2": "GB",
+    "iso3": "GBR",
+    "numeric": "826",
+    "iso3166_2_link": "ISO 3166-2:GB"
+  },
+  {
+    "country": "United States Minor Outlying Islands (the)",
+    "state_name": "United States Pacific Island Wildlife Refuges,Navassa\u00a0Island, andWake\u00a0Island",
+    "iso2": "UM",
+    "iso3": "UMI",
+    "numeric": "581",
+    "iso3166_2_link": "ISO 3166-2:UM"
+  },
+  {
+    "country": "United States of America (the)",
+    "state_name": "the United States of America",
+    "iso2": "US",
+    "iso3": "USA",
+    "numeric": "840",
+    "iso3166_2_link": "ISO 3166-2:US"
+  },
+  {
+    "country": "Uruguay",
+    "state_name": "the Oriental Republic of Uruguay",
+    "iso2": "UY",
+    "iso3": "URY",
+    "numeric": "858",
+    "iso3166_2_link": "ISO 3166-2:UY"
+  },
+  {
+    "country": "Uzbekistan",
+    "state_name": "the Republic of Uzbekistan",
+    "iso2": "UZ",
+    "iso3": "UZB",
+    "numeric": "860",
+    "iso3166_2_link": "ISO 3166-2:UZ"
+  },
+  {
+    "country": "Vanuatu",
+    "state_name": "the Republic of Vanuatu",
+    "iso2": "VU",
+    "iso3": "VUT",
+    "numeric": "548",
+    "iso3166_2_link": "ISO 3166-2:VU"
+  },
+  {
+    "country": "Venezuela (Bolivarian Republic of)",
+    "state_name": "the Bolivarian Republic of Venezuela",
+    "iso2": "VE",
+    "iso3": "VEN",
+    "numeric": "862",
+    "iso3166_2_link": "ISO 3166-2:VE"
+  },
+  {
+    "country": "Viet Nam",
+    "state_name": "the Socialist Republic of Viet Nam",
+    "iso2": "VN",
+    "iso3": "VNM",
+    "numeric": "704",
+    "iso3166_2_link": "ISO 3166-2:VN"
+  },
+  {
+    "country": "Virgin Islands (British)",
+    "state_name": "the Virgin Islands",
+    "iso2": "VG",
+    "iso3": "VGB",
+    "numeric": "092",
+    "iso3166_2_link": "ISO 3166-2:VG"
+  },
+  {
+    "country": "Virgin Islands (U.S.)",
+    "state_name": "the Virgin Islands of the United States",
+    "iso2": "VI",
+    "iso3": "VIR",
+    "numeric": "850",
+    "iso3166_2_link": "ISO 3166-2:VI"
+  },
+  {
+    "country": "Wallis and Futuna",
+    "state_name": "the Territory of the Wallis and Futuna Islands",
+    "iso2": "WF",
+    "iso3": "WLF",
+    "numeric": "876",
+    "iso3166_2_link": "ISO 3166-2:WF"
+  },
+  {
+    "country": "Western Sahara",
+    "state_name": "the Sahrawi Arab Democratic Republic",
+    "iso2": "EH",
+    "iso3": "ESH",
+    "numeric": "732",
+    "iso3166_2_link": "ISO 3166-2:EH"
+  },
+  {
+    "country": "Yemen",
+    "state_name": "the Republic of Yemen",
+    "iso2": "YE",
+    "iso3": "YEM",
+    "numeric": "887",
+    "iso3166_2_link": "ISO 3166-2:YE"
+  },
+  {
+    "country": "Zambia",
+    "state_name": "the Republic of Zambia",
+    "iso2": "ZM",
+    "iso3": "ZMB",
+    "numeric": "894",
+    "iso3166_2_link": "ISO 3166-2:ZM"
+  },
+  {
+    "country": "Zimbabwe",
+    "state_name": "the Republic of Zimbabwe",
+    "iso2": "ZW",
+    "iso3": "ZWE",
+    "numeric": "716",
+    "iso3166_2_link": "ISO 3166-2:ZW"
+  }
+]
